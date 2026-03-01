@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore memory storage
+memory.json
